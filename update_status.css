@@ -1,0 +1,47 @@
+body{
+    background-image: url('https://images.alphacoders.com/769/769376.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header{
+    background-color: #D4F6CC;
+    height: 8vh;
+    width: 95vw;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+.col-md-4.m-auto{
+    margin-left: 10vh;
+}
+.form-group{
+    color: rgb(0, 0, 0);
+    background-image: url('https://img.freepik.com/premium-vector/abstract-minimal-pastel-color-watercolor-background_100956-417.jpg?size=338&ext=jpg&ga=GA1.1.735520172.1710460800&semt=ais');
+    backdrop-filter: blur(30px);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.form-control{
+    border: none;
+    background-color: rgb(255, 172, 172);
+    border-radius: 10px;
+    color: rgb(27, 89, 144);
+    font-size: 20px;
+}
+.btn.btn-warning{
+    color: aliceblue;
+    border: none;
+    background-color: rgb(17, 44, 82);
+    font-size: 18px;
+    border-radius: 5px;
+}
+.new_h3{
+    color: aliceblue;
+    font-size: 28px;
+}
